@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         val button = findViewById<Button>(R.id.TryMeButton)
         button.setOnClickListener {
-            Toast.makeText(this, "Fight me", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this, "Don't Do Anything Stupid Until I Come Back", Toast.LENGTH_LONG).show()
         }
     }
 }
