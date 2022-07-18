@@ -17,13 +17,15 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [x] List anything else that you can get done to improve the app functionality!
-* I updated the message and image to be a little cheeky and show a little of my personality
+* I updated the message
+* I changed the size of the button along with the button name
+* I also changed the overall feel and image to be a little cheeky and show a little of my personality
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img https://github.com/Yas7777/HelloWorld/blob/master/walkthrough.gif title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://github.com/Yas7777/HelloWorld/blob/master/walkthrough.gif
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
