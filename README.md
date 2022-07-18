@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [x] List anything else that you can get done to improve the app functionality!
-* I updated the message
+* I updated the button message and the intro message
 * I changed the size of the button along with the button name
 * I also changed the overall feel and image to be a little cheeky and show a little of my personality
 
