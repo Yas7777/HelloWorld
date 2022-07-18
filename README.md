@@ -25,17 +25,20 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-https://github.com/Yas7777/HelloWorld/blob/master/walkthrough.gif
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+* Kotlin language was a little hard to understand but the Codepath video explained it well.
+* The design/ratio aspect took me a little time to customize.
+
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
