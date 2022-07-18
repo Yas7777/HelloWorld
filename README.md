@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src=![](../../Documents/walkthrough.gif) title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img https://github.com/Yas7777/HelloWorld/blob/master/walkthrough.gif title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
